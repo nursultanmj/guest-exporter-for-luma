@@ -57,4 +57,4 @@ If this policy changes, the new version will be published in this repository wit
 
 ## Contact
 
-Questions or concerns? Email **nursultan@funnelfox.io**.
+Questions or concerns? Open an issue at **https://github.com/nursultanmj/guest-exporter-for-luma/issues**.
